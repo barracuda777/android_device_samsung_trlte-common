@@ -1,13 +1,13 @@
 [
   {
-    "remote":"emotroid",
-    "repository": "Emotroid-Rom/proprietary_vendor_samsung",
+    "remote":"barracuda777",
+    "repository": "barracuda777/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch": "mm"
   },
   {
-    "remote":"emotroid",
-    "repository": "Emotroid-Rom/emotion_cm_kernel_trlte",
+    "remote":"barracuda777",
+    "repository": "barracuda777/emotion_cm_kernel_trlte",
     "target_path": "kernel/samsung/trlte",
     "branch": "mm"
   },
@@ -24,10 +24,10 @@
     "branch": "cm-13.0"
   },
   {
-    "remote": "emotroid",
+    "remote": "cm",
     "repository": "Emotroid-Rom/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch": "mm"
+    "branch": "cm-13.0"
   },
   {
     "remote": "cm",
