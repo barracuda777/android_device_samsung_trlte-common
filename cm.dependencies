@@ -3,13 +3,13 @@
     "remote":"barracuda777",
     "repository": "barracuda777/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "branch": "mm"
+    "branch": "cm-13.0"
   },
   {
     "remote":"barracuda777",
     "repository": "barracuda777/emotion_cm_kernel_trlte",
     "target_path": "kernel/samsung/trlte",
-    "branch": "mm"
+    "branch": cm-13.0"
   },
   {
     "remote": "cm",
